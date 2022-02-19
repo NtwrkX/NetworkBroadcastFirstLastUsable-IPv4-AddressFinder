@@ -2,7 +2,7 @@
 
 ### Example
 
-![imgPasswrd](/Usage.gif)
+![imgIPv4Finder](/Usage.gif)
 
 ### Usage (CLI):
 ```
